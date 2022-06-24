@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://baekjungkim.github.io/react_search_api/static/css/main.53a5cc2c.css",
-    "main.js": "https://baekjungkim.github.io/react_search_api/static/js/main.743bc3f9.js",
-    "index.html": "https://baekjungkim.github.io/react_search_api/index.html",
-    "main.53a5cc2c.css.map": "https://baekjungkim.github.io/react_search_api/static/css/main.53a5cc2c.css.map",
-    "main.743bc3f9.js.map": "https://baekjungkim.github.io/react_search_api/static/js/main.743bc3f9.js.map"
+    "main.css": "/react_search_api/static/css/main.53a5cc2c.css",
+    "main.js": "/react_search_api/static/js/main.d47eece8.js",
+    "index.html": "/react_search_api/index.html",
+    "main.53a5cc2c.css.map": "/react_search_api/static/css/main.53a5cc2c.css.map",
+    "main.d47eece8.js.map": "/react_search_api/static/js/main.d47eece8.js.map"
   },
   "entrypoints": [
     "static/css/main.53a5cc2c.css",
-    "static/js/main.743bc3f9.js"
+    "static/js/main.d47eece8.js"
   ]
 }
