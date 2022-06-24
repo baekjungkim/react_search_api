@@ -19,6 +19,7 @@ const List = () => {
         result.push(
           <Item key={data.query.pages[Object.keys(data.query.pages)[i]].pageid}>
             <a
+              target='_blank'
               href={`https://en.wikipedia.org/?curid=${
                 data.query.pages[Object.keys(data.query.pages)[i]].pageid
               }`}

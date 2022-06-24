@@ -3,7 +3,7 @@ import { List, SearchInput } from './component/index';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <SearchInput />
       <Routes>
         <Route path='/search/:keyword' element={<List />} />
